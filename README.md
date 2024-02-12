@@ -9,11 +9,11 @@ To install the following app on your local system follow the steps given below:
 
 - Clone this repository
     ```
-    git clone https://github.com/Vaibhav-22-dm/chess_game.git
+    git clone https://github.com/shivamkgpian/chess_frontend.git
     ```
 - Clone the backend repository
     ```
-    git clone https://github.com/Vaibhav-22-dm/chess-backend.git
+    git clone https://github.com/shivamkgpian/chess_backend.git
     ```
 - Set up the backend by following the instructions given in the readme of backend repository
 - Start the server
